@@ -2,7 +2,7 @@
 
 ### Project: Digital Locker with 3-digit PIN Setup and Verification  
 ### Language: VHDL (VHSIC Hardware Description Language)  
-### Target Platform: FPGA (e.g., Xilinx Basys 3)
+### Target Platform: FPGA (Xilinx Basys 3)
 
 This VHDL project implements a secure digital locker system using
 finite state machine (FSM) principles. It enables a user to:
